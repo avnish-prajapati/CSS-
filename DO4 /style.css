@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: black;
+    color: #fff;
+}
+
+.navi {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+  }
+  
+ .logo img {
+    width: 30px;
+    height: 30px;
+}
+.contact a {
+    background-color: #00e6ac;
+    color: #000;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+   
+}
+
+
+
+
+
+  
+  
