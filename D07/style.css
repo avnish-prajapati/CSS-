@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.article {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 5px solid lightgray;
+}
+
+.article h2::first-letter {
+  color: red;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.article p {
+  margin: 10px;
+}
+
+
+.article p em {
+  background-color: #ffffcc;
+  font-style: italic;
+}
+
+
+.article p:last-child {
+  background-color: #ccffcc;
+  padding: 10px;
+  border-left: 4px solid green;
+  font-weight: bold;
+}
