@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(141, 140, 140);
+}
+.main{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ gap: 3px;
+ 
+ 
+}
+.box{
+display: flex;
+}
+
+.a{
+    background-color: rgb(5, 5, 5);
+    height: 200px;
+    width: 200px;
+}
+.b{
+    background-color: rgb(253, 252, 252);
+    height: 200px;
+    width: 200px;
+
+}
