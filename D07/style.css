@@ -4,6 +4,8 @@ body {
   padding: 20px;
 }
 
+
+
 .container {
   max-width: 600px;
   margin: auto;
@@ -11,9 +13,11 @@ body {
 
 .article {
   background-color: #fff;
+
   border-radius: 8px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
+
   margin-bottom: 20px;
   border-left: 5px solid lightgray;
 }
